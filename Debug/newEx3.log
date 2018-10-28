@@ -1,0 +1,30 @@
+﻿  3.c
+c:\users\spr_hilap\desktop\newex3\newex3\3.c(90): warning C4013: 'gets' undefined; assuming extern returning int
+c:\users\spr_hilap\desktop\newex3\newex3\3.c(140): warning C4133: 'function': incompatible types - from 'char [40]' to 'GAME *'
+c:\users\spr_hilap\desktop\newex3\newex3\3.c(140): warning C4133: 'function': incompatible types - from 'char [40]' to 'TEAM *'
+c:\users\spr_hilap\desktop\newex3\newex3\3.c(141): warning C4133: '=': incompatible types - from 'TEAM *' to 'GAME_NODE *'
+c:\users\spr_hilap\desktop\newex3\newex3\3.c(146): warning C4133: 'function': incompatible types - from 'char [40]' to 'GAME *'
+c:\users\spr_hilap\desktop\newex3\newex3\3.c(146): warning C4133: 'function': incompatible types - from 'char [40]' to 'TEAM *'
+c:\users\spr_hilap\desktop\newex3\newex3\3.c(147): warning C4133: '=': incompatible types - from 'TEAM *' to 'GAME_NODE *'
+c:\users\spr_hilap\desktop\newex3\newex3\3.c(161): warning C4133: '=': incompatible types - from 'GAME *' to 'GAME_NODE *'
+c:\users\spr_hilap\desktop\newex3\newex3\3.c(166): warning C4133: 'return': incompatible types - from 'GAME_NODE *' to 'TEAM *'
+c:\users\spr_hilap\desktop\newex3\newex3\3.c(159): warning C4101: 't': unreferenced local variable
+c:\users\spr_hilap\desktop\newex3\newex3\3.c(202): warning C4133: '=': incompatible types - from 'GAME *' to 'game_node *'
+c:\users\spr_hilap\desktop\newex3\newex3\3.c(212): warning C4133: '=': incompatible types - from 'GAME *' to 'game_node *'
+c:\users\spr_hilap\desktop\newex3\newex3\3.c(229): warning C4133: '=': incompatible types - from 'GAME *' to 'game_node *'
+c:\users\spr_hilap\desktop\newex3\newex3\3.c(239): warning C4133: '=': incompatible types - from 'GAME *' to 'game_node *'
+c:\users\spr_hilap\desktop\newex3\newex3\3.c(253): warning C4133: 'function': incompatible types - from 'char [40]' to 'GAME *'
+c:\users\spr_hilap\desktop\newex3\newex3\3.c(253): warning C4133: 'function': incompatible types - from 'char [40]' to 'TEAM *'
+c:\users\spr_hilap\desktop\newex3\newex3\3.c(254): warning C4133: '=': incompatible types - from 'TEAM *' to 'GAME_NODE *'
+c:\users\spr_hilap\desktop\newex3\newex3\3.c(261): warning C4133: 'function': incompatible types - from 'char [40]' to 'GAME *'
+c:\users\spr_hilap\desktop\newex3\newex3\3.c(261): warning C4133: 'function': incompatible types - from 'char [40]' to 'TEAM *'
+c:\users\spr_hilap\desktop\newex3\newex3\3.c(262): warning C4133: '=': incompatible types - from 'TEAM *' to 'GAME_NODE *'
+c:\users\spr_hilap\desktop\newex3\newex3\3.c(282): warning C4133: '=': incompatible types - from 'GAME *' to 'TEAM *'
+c:\users\spr_hilap\desktop\newex3\newex3\3.c(283): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[40]'
+c:\users\spr_hilap\desktop\newex3\newex3\3.c(283): warning C4024: 'strcpy': different types for formal and actual parameter 1
+c:\users\spr_hilap\desktop\newex3\newex3\3.c(283): warning C4133: 'function': incompatible types - from 'TEAM *' to 'const char *'
+c:\users\spr_hilap\desktop\newex3\newex3\3.c(315): warning C4133: 'initializing': incompatible types - from 'GAME *' to 'GAME_NODE *'
+c:\users\spr_hilap\desktop\newex3\newex3\3.c(116): warning C4716: 'PrepareTable': must return a value
+c:\users\spr_hilap\desktop\newex3\newex3\3.c(279): warning C4716: 'updateTEAMCont': must return a value
+  newEx3.vcxproj -> C:\Users\spr_hilap\Desktop\newEx3\Debug\newEx3.exe
+  newEx3.vcxproj -> C:\Users\spr_hilap\Desktop\newEx3\Debug\newEx3.pdb (Full PDB)
